@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XrmSpeedy", "XrmSpeedy\XrmSpeedy.csproj", "{EE5EF64E-9B27-465F-9E85-2B6ED9FA8D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XrmSpeedyUI", "XrmSpeedyUI\XrmSpeedyUI.csproj", "{FC139806-388E-4F8B-9657-7B467A61281D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs28
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = XrmSpeedy\\XrmSpeedy.csproj
+		SccProjectName1 = XrmSpeedy
+		SccLocalPath1 = XrmSpeedy
+		SccProjectUniqueName2 = XrmSpeedyUI\\XrmSpeedyUI.csproj
+		SccProjectName2 = XrmSpeedyUI
+		SccLocalPath2 = XrmSpeedyUI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5EF64E-9B27-465F-9E85-2B6ED9FA8D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5EF64E-9B27-465F-9E85-2B6ED9FA8D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5EF64E-9B27-465F-9E85-2B6ED9FA8D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5EF64E-9B27-465F-9E85-2B6ED9FA8D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC139806-388E-4F8B-9657-7B467A61281D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC139806-388E-4F8B-9657-7B467A61281D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC139806-388E-4F8B-9657-7B467A61281D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC139806-388E-4F8B-9657-7B467A61281D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
